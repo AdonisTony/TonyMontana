@@ -9,7 +9,7 @@ const navItems = [
     { icon: 'fal fa-home', active: 'fa fa-home', label: 'Home', href: '/' },
     { icon: 'fal fa-compass', active: 'fa fa-compass', label: 'Projeler', href: '/projects' },
     { icon: 'fal fa-phone', active: 'fa fa-phone', label: 'İletişim', href: '/contact' },
-    { icon: 'fal fa-rss', active: 'fa fa-rss', label: 'Discord', href: 'https://blog.umut.live' }
+    { icon: 'fal fa-rss', active: 'fa fa-rss', label: 'Discord', href: 'https://discord.gg/w7Y9nr8HMn' }
 ]
 
 import Link from 'next/link';
