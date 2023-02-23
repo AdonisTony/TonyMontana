@@ -30,7 +30,7 @@ I am an unpretentious software developer. I am a Digital Designer though not pro
                 </p>
               </div>
               <div className={`order-first lg:order-last flex-shrink-0 relative w-[160px] h-[160px] rounded-full pulse-avatar-online `}>
-                <img alt="tonymontana" src={`https://cdn.discordapp.com/attachments/1064547752727564330/1076129923497996398/a_8932f023afca020f83d31d5562bf61c5.gif`} width="160" height="160" className={`bg-neutral-700 w-[160px] h-[160px] rounded-full`} />
+                <img alt="tonymontana" src={`https://cdn.discordapp.com/attachments/1064547752727564330/1078405014197903420/Bot_PP.png`} width="160" height="160" className={`bg-neutral-700 w-[160px] h-[160px] rounded-full`} />
                 <div className={`bg-[#040404] rounded-full px-[4px] py-[1px] flex items-center absolute bottom-0 right-4`}>
                   <Tippy content="Online" animation="shift-away" arrow={false}>
                     <i className={`fad fa-circle text-2xl text-online`} />
